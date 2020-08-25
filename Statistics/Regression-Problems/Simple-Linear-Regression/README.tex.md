@@ -1,7 +1,7 @@
-# Simple (Multiple) Linear Regression Examples
+# Simple Linear Regression Examples
 This directory shows examples of running linear regressions in the following packages/languages/systems:
 + R
-+ Python (Statsmodels)
++ Python (via the Statsmodels package)
 + SPSS
 + Stata
 
